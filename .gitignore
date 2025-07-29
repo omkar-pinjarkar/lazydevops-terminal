@@ -1,0 +1,12 @@
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# node & code stuff
+node_modules/
+.vscode/
+.env
+
+# logs
+*.log
