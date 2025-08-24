@@ -21,6 +21,11 @@ I'm learning DevOps, Git, Linux, and Cloud from scratch — publicly.
 - Git & GitHub
 - VS Code (on Windows)
 
+## Docker Notes  
+- Practicing Docker basics with scripts.  
+- Added docker-notes.txt file.  
+
+
 ## 🌱 What's Next?
 
 Next: Shell scripting, cloud basics, and first DevOps mini-project.
