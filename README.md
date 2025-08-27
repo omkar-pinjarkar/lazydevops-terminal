@@ -40,5 +40,6 @@ Next: Shell scripting, cloud basics, and first DevOps mini-project.
 ✅ Git basics — init, add, commit, push 
 ✅ Created and pushed to GitHub 
 📌 Tools Used LabEx (for Linux practice) Git & GitHub VS Code (on Windows) 
+  teammate-notes
 🌱 What's Next? Next: Shell scripting, cloud basics, and first DevOps mini-project.
- main
+
